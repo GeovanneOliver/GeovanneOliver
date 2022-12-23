@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GeovanneOliver
+- 👀 My interest is to work as an app developer
+- 🌱 I’m currently learning Kotlin and build apps
+- Currently working at Suprasys as support analyst
