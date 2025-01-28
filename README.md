@@ -1,4 +1,4 @@
 <h1> 👋 Hi, I’m @GeovanneOliver </h1>
-- 👀 My interest is to work as an app developer <br>
-- 🌱 I’m currently learning Kotlin and build apps <br>
-- 🔭 Currently working at Suprasys as support analyst
+- 👀 My interest is to work as an developer <br>
+- 🌱 I’m currently learning Node and Java <br>
+- 🔭 Currently working at Suprasys as Product Owner
